@@ -1,1 +1,8 @@
-
+{
+    "owner": {
+        "username": "TheMedyassin"
+    },
+    "records": {
+        "CNAME": "TheMedyassin.github.io"
+    }
+}
